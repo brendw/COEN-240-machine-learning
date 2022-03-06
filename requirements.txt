@@ -24,7 +24,6 @@ nltk==3.7
     # via -r requirements.in
 numpy==1.22.2
     # via
-    #   -r requirements.in
     #   gensim
     #   matplotlib
     #   scikit-learn
@@ -58,4 +57,3 @@ tqdm==4.63.0
 ipykernel>=6
 jupyterlab==3.2.9
 jupyterlab-link-share
-xeus-python
