@@ -22,7 +22,7 @@ matplotlib==3.5.1
     # via -r requirements.in
 nltk==3.7
     # via -r requirements.in
-numpy==1.22.2
+numpy==1.21.5
     # via
     #   gensim
     #   matplotlib
