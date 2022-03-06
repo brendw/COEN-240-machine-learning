@@ -4,6 +4,9 @@
 #
 #    pip-compile
 #
+ipykernel>=6
+jupyterlab==3.2.9
+jupyterlab-link-share
 click==8.0.4
     # via nltk
 cycler==0.11.0
@@ -22,7 +25,7 @@ matplotlib==3.5.1
     # via -r requirements.in
 nltk==3.7
     # via -r requirements.in
-numpy==1.21.5
+numpy>=1.17.3
     # via
     #   gensim
     #   matplotlib
@@ -54,6 +57,3 @@ threadpoolctl==3.1.0
     # via scikit-learn
 tqdm==4.63.0
     # via nltk
-ipykernel>=6
-jupyterlab==3.2.9
-jupyterlab-link-share
