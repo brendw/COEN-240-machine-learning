@@ -14,7 +14,7 @@ wordcloud = "*"
 bokeh = "*"
 pyldavis = "*"
 joblib = "*"
-numpy = "1.21.5"
+numpy = "==1.21.5"
 pandas = "*"
 stopwords = "*"
 
