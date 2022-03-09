@@ -14,6 +14,7 @@ wordcloud = "*"
 bokeh = "*"
 pyldavis = "*"
 joblib = "*"
+numpy = "*"
 
 [dev-packages]
 
