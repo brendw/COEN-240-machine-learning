@@ -14,11 +14,10 @@ wordcloud = "*"
 bokeh = "*"
 pyldavis = "*"
 joblib = "*"
-numpy = "==1.21.5"
 pandas = "==1.3.5"
 stopwords = "*"
 jupyter-nbextensions-configurator = "*"
-visualpython = "*"
+cython = "*"
 
 [dev-packages]
 
